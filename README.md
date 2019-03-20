@@ -5,3 +5,4 @@ This is a demo of using git
 I'll be creating some files in this directory
 
 Tests are in the spec/ folder
+Database is in database/ folder
