@@ -1,0 +1,65 @@
+mkdir sec_git_2019
+cd sec_git_2019/
+git add README.md
+git status
+git status
+git add .
+git status
+git commit -m 
+git commit -m "First commit -- README and basic code"
+git log
+git add .
+git status
+echo $EDITOR
+git commit
+git log
+git log
+git status
+git branch database
+git checkout database
+git status
+git log
+git l
+git checkout 7d2b1d7
+git l
+git checkout database
+git l
+git checkout 7d2b1d7
+git checkout database
+git checkout database
+mkdir db
+git status
+git add .
+git commit -m "Created database code"
+git l
+git checkout master
+git checkout database
+ls
+git add .
+git status
+git commit -m "Fully working database now"
+git l
+ls -l
+ls -al
+git remote add origin git@github.com:ISS-Security/git_play_2019.git
+git remote
+git remote -v
+git checkout master
+git push origin master
+git l
+git checkout database
+git push origin database
+ls
+git add .
+git status
+git commit -m "Fixed bugs in database"
+git l
+git push origin database
+git checkout master
+git l
+git pull origin master
+git l
+hist
+history
+history | copy
+history
